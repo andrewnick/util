@@ -1,0 +1,24 @@
+{
+  "name": "js-util",
+  "version": "1.0.0",
+  "description": "A package of javascript utilities",
+  "main": "util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewnick/util.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "utilities"
+  ],
+  "author": "Andrew Nicholas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewnick/util/issues"
+  },
+  "homepage": "https://github.com/andrewnick/util#readme"
+}
