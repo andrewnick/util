@@ -1,5 +1,5 @@
 {
-  "name": "js-util",
+  "name": "utilize",
   "version": "1.0.0",
   "description": "A package of javascript utilities",
   "main": "util.js",
